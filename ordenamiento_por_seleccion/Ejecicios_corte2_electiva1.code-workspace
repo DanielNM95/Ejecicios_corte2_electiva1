@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "comprovacion_vocales_minusculas",
+			"path": "../comprovacion_vocales_minusculas"
+		},
+		{
+			"name": "Sumar1_2_3",
+			"path": "../Sumar1_2_3"
+		},
+		{
+			"name": "2arreglos_en_1",
+			"path": "../2arreglos_en_1"
+		},
+		{
+			"name": "comparar_cadenas",
+			"path": "../comparar_cadenas"
+		},
+		{
+			"name": "ordenamiento_por_seleccion",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
